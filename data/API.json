@@ -1,0 +1,312 @@
+{
+  "nationalGridAddress": "0xedF86Ec06280Fe31C9f42905a201318010C962F6",
+  "nationalGridPrice": 0.12,
+  "data": [
+    {
+      "time": 0,
+      "purchaseLogic": [
+        {
+          "hasBattery": true,
+          "batteryPercentage": 80,
+          "demand": 10,
+          "supply": 15,
+          "task": "some task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 0,
+          "demand": 8,
+          "supply": 12,
+          "task": "another task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 70,
+          "demand": 14,
+          "supply": 20,
+          "task": "additional task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 10,
+          "demand": 5,
+          "supply": 8,
+          "task": "extra task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 85,
+          "demand": 18,
+          "supply": 25,
+          "task": "bonus task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 5,
+          "demand": 7,
+          "supply": 10,
+          "task": "special task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 75,
+          "demand": 12,
+          "supply": 18,
+          "task": "unique task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 20,
+          "demand": 10,
+          "supply": 15,
+          "task": "uncommon task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 90,
+          "demand": 20,
+          "supply": 30,
+          "task": "extraordinary task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 15,
+          "demand": 9,
+          "supply": 14,
+          "task": "innovative task"
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "purchaseLogic": [
+        {
+          "hasBattery": true,
+          "batteryPercentage": 75,
+          "demand": 12,
+          "supply": 18,
+          "task": "new task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 90,
+          "demand": 15,
+          "supply": 20,
+          "task": "different task"
+        },
+
+        {
+          "hasBattery": false,
+          "batteryPercentage": 15,
+          "demand": 8,
+          "supply": 14,
+          "task": "additional task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 80,
+          "demand": 14,
+          "supply": 22,
+          "task": "extra task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 5,
+          "demand": 7,
+          "supply": 11,
+          "task": "bonus task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 70,
+          "demand": 12,
+          "supply": 19,
+          "task": "special task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 25,
+          "demand": 9,
+          "supply": 13,
+          "task": "unique task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 85,
+          "demand": 16,
+          "supply": 25,
+          "task": "uncommon task"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 10,
+          "demand": 10,
+          "supply": 16,
+          "task": "extraordinary task"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 95,
+          "demand": 22,
+          "supply": 30,
+          "task": "innovative task"
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "purchaseLogic": [
+        {
+          "hasBattery": false,
+          "batteryPercentage": 20,
+          "demand": 10,
+          "supply": 15,
+          "task": "task A"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 85,
+          "demand": 14,
+          "supply": 22,
+          "task": "task B"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 15,
+          "demand": 7,
+          "supply": 11,
+          "task": "task C"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 70,
+          "demand": 12,
+          "supply": 19,
+          "task": "task D"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 25,
+          "demand": 9,
+          "supply": 13,
+          "task": "task E"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 80,
+          "demand": 16,
+          "supply": 25,
+          "task": "task F"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 10,
+          "demand": 10,
+          "supply": 16,
+          "task": "task G"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 95,
+          "demand": 22,
+          "supply": 30,
+          "task": "task H"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 30,
+          "demand": 18,
+          "supply": 26,
+          "task": "task I"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 75,
+          "demand": 20,
+          "supply": 28,
+          "task": "task J"
+        }
+      ]
+    },
+    {
+      "time": 3,
+      "purchaseLogic": [
+        {
+          "hasBattery": true,
+          "batteryPercentage": 90,
+          "demand": 18,
+          "supply": 25,
+          "task": "task K"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 15,
+          "demand": 7,
+          "supply": 12,
+          "task": "task L"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 80,
+          "demand": 16,
+          "supply": 23,
+          "task": "task M"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 25,
+          "demand": 9,
+          "supply": 14,
+          "task": "task N"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 75,
+          "demand": 12,
+          "supply": 20,
+          "task": "task O"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 85,
+          "demand": 22,
+          "supply": 28,
+          "task": "task P"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 10,
+          "demand": 10,
+          "supply": 16,
+          "task": "task Q"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 95,
+          "demand": 20,
+          "supply": 30,
+          "task": "task R"
+        },
+        {
+          "hasBattery": false,
+          "batteryPercentage": 30,
+          "demand": 18,
+          "supply": 26,
+          "task": "task S"
+        },
+        {
+          "hasBattery": true,
+          "batteryPercentage": 75,
+          "demand": 20,
+          "supply": 28,
+          "task": "task T"
+        }
+      ]
+    }
+
+  ],
+  "bidLength": 5,
+  "askLength": 7
+}
+
+

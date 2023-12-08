@@ -1,0 +1,6 @@
+time,hasBattery,batteryPercentage,demand,supply,task
+0,false,0,7,11,another task
+1,false,0,8,12,new task
+2,false,0,6,10,some task
+3,false,0,9,14,different task
+4,false,0,8,13,another task
